@@ -1,1 +1,1 @@
-print("Error: este codigo no debio guardarse")
+print("Error")
