@@ -1,2 +1,2 @@
-Yo = 25
+Yo = 26
 print(Yo)
